@@ -1,0 +1,3 @@
+Backgrounds determine who your character was before they became an adventurer, seeing as not everyone goes about their lives wanting to put themselves in danger for fame and fortune.
+
+Backgrounds should add some form of flavor to your character, with few (minor) benefits, such as the ability to find cheaper lodging if you're civil, or have an easier time finding food out in the wilderness. Backgrounds should NEVER add abilities that are Feat or Class Feature level, as that can be abused too easily.

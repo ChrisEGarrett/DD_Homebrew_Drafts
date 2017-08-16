@@ -1,0 +1,3 @@
+Most classes, homebrew or not, have a set of Archetypes that help nudge a character along in a specific style. Some add new mechanics to a class, some improve existing mechanics, and some take mechanics from other classes (albeit weakened, such as with spellcasting) and bring them over.
+
+With Archetypes, keep in mind that while they're important to the class as a whole, you need to focus on keeping yours from being too powerful or too weak so that a mixed amount of people will want to use it.
