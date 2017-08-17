@@ -1,81 +1,81 @@
-﻿Stoneborn
+﻿#Stoneborn
 
 
-History
+##History
 Stoneborn are genderless humanoids whose exterior flesh is composed of a solid stone. While the stone they come from can be brittle or tough to work, Stoneborn never seem to have issue moving or acting, regardless of their make or intent. Little is known about the Stoneborn, other than they somehow do have an organic inside akin to many humanoids: A heart, a pair of lungs, a brain… the only parts that aren’t organic are the eyes, the teeth, and the skin, which are made of stone. Most Stoneborn have simple gems embedded into their heads which act as eyes, and their teeth are made of a hardy opaque quartz.
 
 
-Society
+##Society
 Stoneborn are simple-minded creatures in the sense that they make friends easily, aren’t likely to hold grudges, and seek to better themselves one way or another. A distinct characteristic in Stoneborn is their deep-seated loyalty to those of stone: Dwarves, Earthen Elementals, etc. Stoneborn villages usually lie towards the top of mountains, where they can live peacefully and away from whatever politics lie below.
 
 
-Racial Names
+##Racial Names
 Stoneborn very rarely go by names, instead choosing to be referred to as their job or hobby. Once a significant event has happened in a Stoneborn’s life (i.e. marriage, tragedy, pulling off a feat of strength or wisdom, etc.), a Stoneborn goes through a fairly celebratory ritual where they choose a name of their own. Most chosen names will hint to who that specific Stoneborn spends more time with or just generally sees as more honorable. It’s not uncommon for many Stoneborn to do the same to other people (regardless of race) until they feel comfortable enough sharing their chosen name with them.
 
 
-Stoneborn Traits
-Ability Score Increase 
+##Stoneborn Traits
+###Ability Score Increase 
 Increase Strength by 1, and Wisdom by 1, to a total of 20.
 
 
-Age
+###Age
 Stoneborn have no real sense of age, seeing as they only die through their skin eroding away or in the heat of battle. Stoneborn are formed fully mature, and do not have any means of reproduction, so do not have a sexual maturity.
 
 
-Alignment
+###Alignment
 Many Stoneborn choose to follow the laws of their people more than the laws of the land, seeing honor as more important than most anything else. This can be seen as lawful by some, and chaotic by others. In a technical sense, Stoneborn do not lean toward any particular alignment.
 
 
-Size
+###Size
 Stoneborn are almost exact replicas of adult males, with some slight variation in heights and weights, depending on the specific Stoneborn. Your size is Medium.
 
 
-Speed
+###Speed
 Stoneborn have a natural walk speed of 30 feet.
 
 
-Stonemeld
+###Stonemeld
 If a Stoneborn happens to be standing on or next to their “home stone”, they may use an action to meld into the stone. During this time, the Stoneborn is blinded and restrained. Stoneborn leave no trace of their presense on the stone they melded into, and can stay melded for up to eight hours before needing to leave to maintain their form. If the stone they’re melded into is destroyed for whatever reason, the Stoneborn is ejected, taking half the damage the stone took in the attack that destroyed it. The Stoneborn lands up to ten feet away and is knocked prone.
 
 
-Subraces
+##Subraces
 Many Stoneborn are made from various stones, each taking some traits from their “home stone”.
 
 
-Granite
+###Granite
 Increase your Constitution by 1, to a maximum of 20.
 
 
 You’re considered one size larger for the purpose of determining carry weight.
 
 
-Basalt
+###Basalt
 Increase Strength by 1, to a maximum of 20.
 
 
 You have proficiency with Mauls and Warhammers.
 
 
-Onyx
+###Onyx
 Increase your Dexterity by 1, to a maximum of 20.
 
 
 You have advantage on stealth checks to remain hidden in dark areas.
 
 
-Marble
+###Marble
 Increase your Charisma by 1, to a maximum of 20.
 
 
 Whenever a dim light is shone within 5 feet of you, you can choose to position yourself to reflect the light in a certain direction for the purpose of seeing what’s there.
 
 
-Height/Weight
-Base Height
+##Height/Weight
+###Base Height
 5’11”
-Height Modifier
+###Height Modifier
 +3d6
-Base Weight
+###Base Weight
 160 lbs
-Weight Modifier
+###Weight Modifier
 ×(1d10) lbs
